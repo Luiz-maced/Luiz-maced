@@ -14,10 +14,12 @@
 
 <p><strong>About me</strong></p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Luiz Macedo and I am a backEnd Developer and Graduate in computer science.. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is become a Software Architect.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is java with Spring Boot.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
+ Hello! I'm Luiz Macedo, a Backend Developer and Computer Science graduate passionate about building scalable, high-quality software.
+ My career goal is to become a Software Architect, designing robust, maintainable, and scalable systems that solve real-world problems.
+ My main expertise is Java and Spring Boot, but I also enjoy working with microservices, REST APIs, SQL databases, Docker, cloud technologies, and software architecture.
+ I love turning ideas into products, from planning the architecture to implementing and deploying complete applications.
+ I'm constantly learning and improving my skills in software engineering, distributed systems, clean architecture, performance optimization, and best development practices.
+ I believe that technology is built by people. That's why I always strive to be respectful, collaborative, and open to sharing knowledge while learning from others.
 
 ## &nbsp;My Stack
 
